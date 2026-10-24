@@ -1,0 +1,9 @@
+{
+  "name": "platform-test-tooling",
+  "private": true,
+  "type": "module",
+  "description": "Test machinery that apps borrow to check their pages in a real browser. Not part of the published platform, which stays plain static HTML/JS/CSS.",
+  "devDependencies": {
+    "playwright": "1.63.0"
+  }
+}
